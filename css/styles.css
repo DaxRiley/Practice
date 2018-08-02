@@ -1,0 +1,26 @@
+body {
+  background-color: pink;
+}
+
+ p  {
+  background-color: purple;
+  color: green;
+
+}
+
+ol {
+  font-style: italic;
+}
+
+.practice-list {
+  text-shadow: 2pt 2pt yellow;
+}
+
+.practice-span {
+font-size: 40px;
+}
+
+#tricky {
+   color: green;
+   background-color: white;
+}
